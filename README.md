@@ -21,7 +21,6 @@ O projeto partiu de uma base chamada `crud-manager` e foi estendido para incluir
 * **Painel de Controle (Home):** Uma página inicial que serve como um dashboard para navegar entre os módulos.
 * **CRUD de Usuários:** Gerenciamento completo de usuários.
 * **CRUD de Posts:** Gerenciamento completo de posts.
-* **CRUD de Empresas:** Gerenciamento completo de empresas.
 * **CRUD de Serviços da Oficina:** Módulo principal da atividade. Permite gerenciar os serviços realizados na oficina, associando cada serviço a um cliente (usuário).
 
 ## Tecnologias Utilizadas
